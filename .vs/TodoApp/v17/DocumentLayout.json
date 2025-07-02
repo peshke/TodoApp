@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleksa.pesic\\TodoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0696F1FD-497E-4671-91B5-77040CF6A778}|TodoApp.Tests\\TodoApp.Tests.csproj|c:\\users\\aleksa.pesic\\todoapp\\todoapp.tests\\todoapp.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0696F1FD-497E-4671-91B5-77040CF6A778}|TodoApp.Tests\\TodoApp.Tests.csproj|solutionrelative:todoapp.tests\\todoapp.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0696F1FD-497E-4671-91B5-77040CF6A778}|TodoApp.Tests\\TodoApp.Tests.csproj|c:\\users\\aleksa.pesic\\todoapp\\todoapp.tests\\handlers\\createtaskcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0696F1FD-497E-4671-91B5-77040CF6A778}|TodoApp.Tests\\TodoApp.Tests.csproj|solutionrelative:todoapp.tests\\handlers\\createtaskcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B55D85-A438-49EB-AC7C-7B62A7AB3161}|TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj|c:\\users\\aleksa.pesic\\todoapp\\todoapp.infrastructure\\persistence\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B55D85-A438-49EB-AC7C-7B62A7AB3161}|TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj|solutionrelative:todoapp.infrastructure\\persistence\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE370DA-1FF3-4F1F-B5DA-87AF7909AABB}|TodoApp.Application\\TodoApp.Application.csproj|c:\\users\\aleksa.pesic\\todoapp\\todoapp.application\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE370DA-1FF3-4F1F-B5DA-87AF7909AABB}|TodoApp.Application\\TodoApp.Application.csproj|solutionrelative:todoapp.application\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2754139-6D08-4EA3-8978-C0354349177F}|TodoApp.API\\TodoApp.API.csproj|c:\\users\\aleksa.pesic\\todoapp\\todoapp.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2754139-6D08-4EA3-8978-C0354349177F}|TodoApp.API\\TodoApp.API.csproj|solutionrelative:todoapp.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B55D85-A438-49EB-AC7C-7B62A7AB3161}|TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj|c:\\users\\aleksa.pesic\\todoapp\\todoapp.infrastructure\\workers\\overduetaskcleanupworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B55D85-A438-49EB-AC7C-7B62A7AB3161}|TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj|solutionrelative:todoapp.infrastructure\\workers\\overduetaskcleanupworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2754139-6D08-4EA3-8978-C0354349177F}|TodoApp.API\\TodoApp.API.csproj|c:\\users\\aleksa.pesic\\todoapp\\todoapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2754139-6D08-4EA3-8978-C0354349177F}|TodoApp.API\\TodoApp.API.csproj|solutionrelative:todoapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B55D85-A438-49EB-AC7C-7B62A7AB3161}|TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj|c:\\users\\aleksa.pesic\\todoapp\\todoapp.infrastructure\\persistence\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B55D85-A438-49EB-AC7C-7B62A7AB3161}|TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj|solutionrelative:todoapp.infrastructure\\persistence\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE370DA-1FF3-4F1F-B5DA-87AF7909AABB}|TodoApp.Application\\TodoApp.Application.csproj|c:\\users\\aleksa.pesic\\todoapp\\todoapp.application\\commands\\completetask\\completetaskcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE370DA-1FF3-4F1F-B5DA-87AF7909AABB}|TodoApp.Application\\TodoApp.Application.csproj|solutionrelative:todoapp.application\\commands\\completetask\\completetaskcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE370DA-1FF3-4F1F-B5DA-87AF7909AABB}|TodoApp.Application\\TodoApp.Application.csproj|c:\\users\\aleksa.pesic\\todoapp\\todoapp.application\\commands\\completetask\\completetaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE370DA-1FF3-4F1F-B5DA-87AF7909AABB}|TodoApp.Application\\TodoApp.Application.csproj|solutionrelative:todoapp.application\\commands\\completetask\\completetaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE370DA-1FF3-4F1F-B5DA-87AF7909AABB}|TodoApp.Application\\TodoApp.Application.csproj|c:\\users\\aleksa.pesic\\todoapp\\todoapp.application\\queries\\gettasks\\gettasksqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE370DA-1FF3-4F1F-B5DA-87AF7909AABB}|TodoApp.Application\\TodoApp.Application.csproj|solutionrelative:todoapp.application\\queries\\gettasks\\gettasksqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE370DA-1FF3-4F1F-B5DA-87AF7909AABB}|TodoApp.Application\\TodoApp.Application.csproj|c:\\users\\aleksa.pesic\\todoapp\\todoapp.application\\queries\\gettasks\\gettasksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE370DA-1FF3-4F1F-B5DA-87AF7909AABB}|TodoApp.Application\\TodoApp.Application.csproj|solutionrelative:todoapp.application\\queries\\gettasks\\gettasksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE370DA-1FF3-4F1F-B5DA-87AF7909AABB}|TodoApp.Application\\TodoApp.Application.csproj|c:\\users\\aleksa.pesic\\todoapp\\todoapp.application\\commands\\createtask\\createtaskcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE370DA-1FF3-4F1F-B5DA-87AF7909AABB}|TodoApp.Application\\TodoApp.Application.csproj|solutionrelative:todoapp.application\\commands\\createtask\\createtaskcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE370DA-1FF3-4F1F-B5DA-87AF7909AABB}|TodoApp.Application\\TodoApp.Application.csproj|c:\\users\\aleksa.pesic\\todoapp\\todoapp.application\\commands\\createtask\\createtaskcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE370DA-1FF3-4F1F-B5DA-87AF7909AABB}|TodoApp.Application\\TodoApp.Application.csproj|solutionrelative:todoapp.application\\commands\\createtask\\createtaskcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE370DA-1FF3-4F1F-B5DA-87AF7909AABB}|TodoApp.Application\\TodoApp.Application.csproj|c:\\users\\aleksa.pesic\\todoapp\\todoapp.application\\commands\\createtask\\createtaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE370DA-1FF3-4F1F-B5DA-87AF7909AABB}|TodoApp.Application\\TodoApp.Application.csproj|solutionrelative:todoapp.application\\commands\\createtask\\createtaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C4FBBB-D44F-4946-824D-BF22650A6D8E}|TodoApp.Domain\\TodoApp.Domain.csproj|c:\\users\\aleksa.pesic\\todoapp\\todoapp.domain\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C4FBBB-D44F-4946-824D-BF22650A6D8E}|TodoApp.Domain\\TodoApp.Domain.csproj|solutionrelative:todoapp.domain\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B55D85-A438-49EB-AC7C-7B62A7AB3161}|TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj|c:\\users\\aleksa.pesic\\todoapp\\todoapp.infrastructure\\todoapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A0B55D85-A438-49EB-AC7C-7B62A7AB3161}|TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj|solutionrelative:todoapp.infrastructure\\todoapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoApp.Tests",
+              "DocumentMoniker": "C:\\Users\\aleksa.pesic\\TodoApp\\TodoApp.Tests\\TodoApp.Tests.csproj",
+              "RelativeDocumentMoniker": "TodoApp.Tests\\TodoApp.Tests.csproj",
+              "ToolTip": "C:\\Users\\aleksa.pesic\\TodoApp\\TodoApp.Tests\\TodoApp.Tests.csproj",
+              "RelativeToolTip": "TodoApp.Tests\\TodoApp.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-02T21:41:11.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateTaskCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\aleksa.pesic\\TodoApp\\TodoApp.Tests\\Handlers\\CreateTaskCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "TodoApp.Tests\\Handlers\\CreateTaskCommandHandlerTests.cs",
+              "ToolTip": "C:\\Users\\aleksa.pesic\\TodoApp\\TodoApp.Tests\\Handlers\\CreateTaskCommandHandlerTests.cs",
+              "RelativeToolTip": "TodoApp.Tests\\Handlers\\CreateTaskCommandHandlerTests.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAADwvyoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T21:39:31.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OverdueTaskCleanupWorker.cs",
+              "DocumentMoniker": "C:\\Users\\aleksa.pesic\\TodoApp\\TodoApp.Infrastructure\\Workers\\OverdueTaskCleanupWorker.cs",
+              "RelativeDocumentMoniker": "TodoApp.Infrastructure\\Workers\\OverdueTaskCleanupWorker.cs",
+              "ToolTip": "C:\\Users\\aleksa.pesic\\TodoApp\\TodoApp.Infrastructure\\Workers\\OverdueTaskCleanupWorker.cs",
+              "RelativeToolTip": "TodoApp.Infrastructure\\Workers\\OverdueTaskCleanupWorker.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T21:34:40.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\aleksa.pesic\\TodoApp\\TodoApp.API\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "TodoApp.API\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\aleksa.pesic\\TodoApp\\TodoApp.API\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "TodoApp.API\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T19:33:08.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aleksa.pesic\\TodoApp\\TodoApp.Application\\Interfaces\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "TodoApp.Application\\Interfaces\\ITaskRepository.cs",
+              "ToolTip": "C:\\Users\\aleksa.pesic\\TodoApp\\TodoApp.Application\\Interfaces\\ITaskRepository.cs",
+              "RelativeToolTip": "TodoApp.Application\\Interfaces\\ITaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T19:18:55.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aleksa.pesic\\TodoApp\\TodoApp.Infrastructure\\Persistence\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "TodoApp.Infrastructure\\Persistence\\TaskRepository.cs",
+              "ToolTip": "C:\\Users\\aleksa.pesic\\TodoApp\\TodoApp.Infrastructure\\Persistence\\TaskRepository.cs",
+              "RelativeToolTip": "TodoApp.Infrastructure\\Persistence\\TaskRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwCcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T19:26:59.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aleksa.pesic\\TodoApp\\TodoApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "TodoApp.API\\Program.cs",
+              "ToolTip": "C:\\Users\\aleksa.pesic\\TodoApp\\TodoApp.API\\Program.cs",
+              "RelativeToolTip": "TodoApp.API\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T19:27:36.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\aleksa.pesic\\TodoApp\\TodoApp.Infrastructure\\Persistence\\TaskDbContext.cs",
+              "RelativeDocumentMoniker": "TodoApp.Infrastructure\\Persistence\\TaskDbContext.cs",
+              "ToolTip": "C:\\Users\\aleksa.pesic\\TodoApp\\TodoApp.Infrastructure\\Persistence\\TaskDbContext.cs",
+              "RelativeToolTip": "TodoApp.Infrastructure\\Persistence\\TaskDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T19:26:51.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CompleteTaskCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\aleksa.pesic\\TodoApp\\TodoApp.Application\\Commands\\CompleteTask\\CompleteTaskCommandHandler.cs",
+              "RelativeDocumentMoniker": "TodoApp.Application\\Commands\\CompleteTask\\CompleteTaskCommandHandler.cs",
+              "ToolTip": "C:\\Users\\aleksa.pesic\\TodoApp\\TodoApp.Application\\Commands\\CompleteTask\\CompleteTaskCommandHandler.cs",
+              "RelativeToolTip": "TodoApp.Application\\Commands\\CompleteTask\\CompleteTaskCommandHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T20:40:40.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CompleteTaskCommand.cs",
+              "DocumentMoniker": "C:\\Users\\aleksa.pesic\\TodoApp\\TodoApp.Application\\Commands\\CompleteTask\\CompleteTaskCommand.cs",
+              "RelativeDocumentMoniker": "TodoApp.Application\\Commands\\CompleteTask\\CompleteTaskCommand.cs",
+              "ToolTip": "C:\\Users\\aleksa.pesic\\TodoApp\\TodoApp.Application\\Commands\\CompleteTask\\CompleteTaskCommand.cs",
+              "RelativeToolTip": "TodoApp.Application\\Commands\\CompleteTask\\CompleteTaskCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T20:40:28.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetTasksQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\aleksa.pesic\\TodoApp\\TodoApp.Application\\Queries\\GetTasks\\GetTasksQueryHandler.cs",
+              "RelativeDocumentMoniker": "TodoApp.Application\\Queries\\GetTasks\\GetTasksQueryHandler.cs",
+              "ToolTip": "C:\\Users\\aleksa.pesic\\TodoApp\\TodoApp.Application\\Queries\\GetTasks\\GetTasksQueryHandler.cs",
+              "RelativeToolTip": "TodoApp.Application\\Queries\\GetTasks\\GetTasksQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T20:36:10.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetTasksQuery.cs",
+              "DocumentMoniker": "C:\\Users\\aleksa.pesic\\TodoApp\\TodoApp.Application\\Queries\\GetTasks\\GetTasksQuery.cs",
+              "RelativeDocumentMoniker": "TodoApp.Application\\Queries\\GetTasks\\GetTasksQuery.cs",
+              "ToolTip": "C:\\Users\\aleksa.pesic\\TodoApp\\TodoApp.Application\\Queries\\GetTasks\\GetTasksQuery.cs",
+              "RelativeToolTip": "TodoApp.Application\\Queries\\GetTasks\\GetTasksQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T20:35:56.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TodoApp.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\aleksa.pesic\\TodoApp\\TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\aleksa.pesic\\TodoApp\\TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj",
+              "RelativeToolTip": "TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-02T19:16:27.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateTaskCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\aleksa.pesic\\TodoApp\\TodoApp.Application\\Commands\\CreateTask\\CreateTaskCommandValidator.cs",
+              "RelativeDocumentMoniker": "TodoApp.Application\\Commands\\CreateTask\\CreateTaskCommandValidator.cs",
+              "ToolTip": "C:\\Users\\aleksa.pesic\\TodoApp\\TodoApp.Application\\Commands\\CreateTask\\CreateTaskCommandValidator.cs",
+              "RelativeToolTip": "TodoApp.Application\\Commands\\CreateTask\\CreateTaskCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T19:21:32.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateTaskCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\aleksa.pesic\\TodoApp\\TodoApp.Application\\Commands\\CreateTask\\CreateTaskCommandHandler.cs",
+              "RelativeDocumentMoniker": "TodoApp.Application\\Commands\\CreateTask\\CreateTaskCommandHandler.cs",
+              "ToolTip": "C:\\Users\\aleksa.pesic\\TodoApp\\TodoApp.Application\\Commands\\CreateTask\\CreateTaskCommandHandler.cs",
+              "RelativeToolTip": "TodoApp.Application\\Commands\\CreateTask\\CreateTaskCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T19:17:31.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateTaskCommand.cs",
+              "DocumentMoniker": "C:\\Users\\aleksa.pesic\\TodoApp\\TodoApp.Application\\Commands\\CreateTask\\CreateTaskCommand.cs",
+              "RelativeDocumentMoniker": "TodoApp.Application\\Commands\\CreateTask\\CreateTaskCommand.cs",
+              "ToolTip": "C:\\Users\\aleksa.pesic\\TodoApp\\TodoApp.Application\\Commands\\CreateTask\\CreateTaskCommand.cs",
+              "RelativeToolTip": "TodoApp.Application\\Commands\\CreateTask\\CreateTaskCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T19:15:48.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\aleksa.pesic\\TodoApp\\TodoApp.Domain\\Entities\\TaskItem.cs",
+              "RelativeDocumentMoniker": "TodoApp.Domain\\Entities\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\aleksa.pesic\\TodoApp\\TodoApp.Domain\\Entities\\TaskItem.cs",
+              "RelativeToolTip": "TodoApp.Domain\\Entities\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T19:13:04.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
